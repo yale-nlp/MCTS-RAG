@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "problem": "How long is a soccer field?\n0) 370 miles 1) 370 yards 2) 370 feet 3) 370 inches",
+        "solution": "2"
+    },
+    {
+        "id": 2,
+        "problem": "What is the volume of a paper drinking cup?\n0) 115 liters 1) 115 milliliters",
+        "solution": "1"
+    },
+    {
+        "id": 3,
+        "problem": "Which figure of speech is used in this text?\nMr. Wolfsheim, forgetting the more sentimental atmosphere of the old Metropole, began to eat with ferocious delicacy.\n\u2014F. Scott Fitzgerald, The Great Gatsby\n0) oxymoron 1) anaphora",
+        "solution": "0"
+    },
+    {
+        "id": 4,
+        "problem": "Which type of sentence is this?\nBrenna is a competitive horseback rider, and she will be competing in the next World Equestrian Games, which are held every four years.\n0) compound 1) complex 2) compound-complex 3) simple",
+        "solution": "2"
+    },
+    {
+        "id": 5,
+        "problem": "What do these two changes have in common?\nmixing sand and water\nsediment settling to the bottom of a muddy puddle\n0) Both are chemical changes. 1) Both are caused by heating. 2) Both are caused by cooling. 3) Both are only physical changes.",
+        "solution": "3"
+    },
+    {
+        "id": 6,
+        "problem": "Based on this information, what is Hobbes's genotype for the fur type gene?\n0) straight fur 1) FF",
+        "solution": "1"
+    },
+    {
+        "id": 7,
+        "problem": "Which sentence uses a metaphor?\n0) The bare tree's branches were sharp needles. 1) The bare tree's branches were as sharp as needles.",
+        "solution": "0"
+    },
+    {
+        "id": 8,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nbookcase - burden\n0) beware 1) brilliant",
+        "solution": "1"
+    },
+    {
+        "id": 9,
+        "problem": "Is the following trait inherited or acquired?\nAnthony has five toes on each foot.\n0) inherited 1) acquired",
+        "solution": "0"
+    },
+    {
+        "id": 10,
+        "problem": "Select the mixture.\n0) caramel corn 1) silver",
+        "solution": "0"
+    },
+    {
+        "id": 11,
+        "problem": "Using only these supplies, which question can Carla investigate with an experiment?\n0) Do the deer eat fewer leaves from bean plants sprayed with coffee spray than from unsprayed bean plants? 1) Do the deer eat fewer leaves from bean plants sprayed with garlic spray than from unsprayed bean plants? 2) Do the deer eat more leaves from tomato plants or from squash plants?",
+        "solution": "1"
+    },
+    {
+        "id": 12,
+        "problem": "Compare the motion of three bicycles. Which bicycle was moving at the highest speed?\n0) a bicycle that moved 30miles east in 5hours 1) a bicycle that moved 70miles west in 5hours 2) a bicycle that moved 35miles east in 5hours",
+        "solution": "1"
+    },
+    {
+        "id": 13,
+        "problem": "Select the one animal that has all of the amphibian traits listed above.\n0) Smooth newts have moist, smooth skin with black spots. Young smooth newts hatch from eggs without shells. They live in streams or ponds until they are about ten weeks old. Then, they crawl onto land. 1) Loggerhead sea turtles hatch from eggs with shells. They live in the water, but they lay their eggs on the land. Their scaly, waterproof skin and thick shell help protect them from predators.",
+        "solution": "0"
+    },
+    {
+        "id": 14,
+        "problem": "Using only these supplies, which question can Cassie investigate with an experiment?\n0) Do apple slices dipped in orange juice turn brown more slowly than plain apple slices? 1) Do apple slices turn brown more quickly if they are dipped in sugar or in orange juice? 2) Do slices of pear turn brown more quickly than slices of banana?",
+        "solution": "0"
+    },
+    {
+        "id": 15,
+        "problem": "What kind of sentence is this?\nAt the museum, we saw statues from China.\n0) declarative 1) exclamatory",
+        "solution": "0"
+    },
+    {
+        "id": 16,
+        "problem": "What is the source of the allusion in the sentence below?\nSidney told her friends that Desmond was a typical Peter Pan type.\n0) literature 1) a song",
+        "solution": "0"
+    },
+    {
+        "id": 17,
+        "problem": "Which logical fallacy is used in the text?\nEdna never lies. She told me herself, so it must be true.\n0) circular reasoning: an argument that supports a claim with the claim itself 1) straw man: a misrepresentation of an opponent's position that makes it easier to argue against",
+        "solution": "0"
+    },
+    {
+        "id": 18,
+        "problem": "Based on this information, what is Digby's genotype for the fur length gene?\n0) short fur 1) FF",
+        "solution": "1"
+    },
+    {
+        "id": 19,
+        "problem": "Which object has the least thermal energy?\n0) a cherry pie at a temperature of 77\u00b0F 1) a cherry pie at a temperature of 106\u00b0F 2) a cherry pie at a temperature of 113\u00b0F",
+        "solution": "0"
+    },
+    {
+        "id": 20,
+        "problem": "Complete the statement. Assume that Joseph's mass did not change.\nThe gravitational potential energy stored between Joseph and Earth () as he hiked toward the summit.\n0) increased 1) stayed the same 2) decreased",
+        "solution": "0"
+    },
+    {
+        "id": 21,
+        "problem": "Which tense does the sentence use?\nMom will pitch the ball to Preston.\n0) present tense 1) future tense 2) past tense",
+        "solution": "1"
+    },
+    {
+        "id": 22,
+        "problem": "Which figure of speech is used in this text?\nJeanette insisted that her dog wasn't fat; she said that he was merely well-fed.\n0) euphemism 1) paradox",
+        "solution": "0"
+    },
+    {
+        "id": 23,
+        "problem": "Would you find the word volley on a dictionary page with the following guide words?\nvain - violet\n0) yes 1) no",
+        "solution": "1"
+    },
+    {
+        "id": 24,
+        "problem": "What is the volume of a bathtub?\n0) 335 milliliters 1) 335 liters",
+        "solution": "1"
+    },
+    {
+        "id": 25,
+        "problem": "Which logical fallacy is used in the text?\nSenator Swift announced today that she plans to cut funding to early childhood education programs. The last thing we need is a government official who hates children!\n0) straw man: a misrepresentation of an opponent's position that makes it easier to argue against 1) circular reasoning: an argument that supports a claim with the claim itself",
+        "solution": "0"
+    },
+    {
+        "id": 26,
+        "problem": "Using only these supplies, which question can Finn investigate with an experiment?\n0) Is the pet lizard more active when its tank is heated with one heating lamp or with two heating lamps? 1) Is the pet lizard more active when it is fed insects or lettuce? 2) Is the pet lizard more active when it is fed crickets or mealworms?",
+        "solution": "2"
+    },
+    {
+        "id": 27,
+        "problem": "Is the following trait inherited or acquired?\nLena has naturally straight hair.\n0) acquired 1) inherited",
+        "solution": "1"
+    },
+    {
+        "id": 28,
+        "problem": "Which of the following contains a vague pronoun reference?\n0) \"This morning, the newspaper said that Lucy Morton won the mayoral election in Allenville,\" Josh remarked to his sister. 1) \"This morning, it said that Lucy Morton won the mayoral election in Allenville,\" Josh remarked to his sister.",
+        "solution": "1"
+    },
+    {
+        "id": 29,
+        "problem": "Which greeting is correct for a letter?\n0) Dear Mrs. burnett, 1) Dear Mrs. Burnett,",
+        "solution": "1"
+    },
+    {
+        "id": 30,
+        "problem": "What is the mass of an apple?\n0) 120 kilograms 1) 120 grams",
+        "solution": "1"
+    },
+    {
+        "id": 31,
+        "problem": "Select the savanna grassland ecosystem.\n0) This ecosystem has:\nwarm summers and warm winters\na rainy season and a dry season\nsoil that is poor in nutrients 1) This ecosystem has:\nyear-round rain and warm temperatures\nsoil that is poor in nutrients\nmany different types of organisms 2) This ecosystem has:\nlong, cold winters and short, cool summers\nmany evergreen trees\nsoil that is poor in nutrients",
+        "solution": "0"
+    },
+    {
+        "id": 32,
+        "problem": "Which of the following contains a vague pronoun reference?\n0) Mr. Russo wanted the new employees to fill out their intake forms, but he couldn't find the forms. 1) Mr. Russo wanted the new employees to fill out their intake forms, but he couldn't find them.",
+        "solution": "1"
+    },
+    {
+        "id": 33,
+        "problem": "What kind of sentence is this?\nIn ancient Greece and Rome, dice were usually made from bone and ivory.\n0) declarative 1) interrogative 2) exclamatory",
+        "solution": "0"
+    },
+    {
+        "id": 34,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nbolt - buckled\n0) brow 1) bandage",
+        "solution": "0"
+    },
+    {
+        "id": 35,
+        "problem": "Which correctly shows the title of a play?\n0) Alice in Space 1) alice in Space",
+        "solution": "0"
+    },
+    {
+        "id": 36,
+        "problem": "What is the volume of a salt shaker?\n0) 43 milliliters 1) 43 liters",
+        "solution": "0"
+    },
+    {
+        "id": 37,
+        "problem": "Which logical fallacy is used in the text?\nIf you're wondering whether purchasing the computer's extended warranty is a wise choice, let me point out that ninety percent of my customers choose to buy it. Don't question the wisdom of the crowd.\n0) straw man: a misrepresentation of an opponent's position that makes it easier to argue against 1) appeal to nature: the assumption that natural things are always good 2) bandwagon fallacy: the assumption that the popular choice is automatically correct",
+        "solution": "2"
+    },
+    {
+        "id": 38,
+        "problem": "Compare the motion of three sailboats. Which sailboat was moving at the highest speed?\n0) a sailboat that moved 70kilometers south in 5hours 1) a sailboat that moved 50kilometers south in 5hours 2) a sailboat that moved 65kilometers east in 5hours",
+        "solution": "0"
+    },
+    {
+        "id": 39,
+        "problem": "Which is a compound sentence?\n0) Open and honest communication is the foundation of a healthy relationship. 1) I can translate these French words for you, or you can use an online dictionary.",
+        "solution": "1"
+    },
+    {
+        "id": 40,
+        "problem": "Which change better matches the sentence?\nA grassland catches fire and burns.\n0) wildfire 1) erosion",
+        "solution": "0"
+    },
+    {
+        "id": 41,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nland - lilac\n0) leaf 1) local",
+        "solution": "0"
+    },
+    {
+        "id": 42,
+        "problem": "What information supports the conclusion that Katy inherited this trait?\n0) Katy's father has brown eyes. He passed this trait down to Katy. 1) Katy's hair is the same color as her brown eyes.",
+        "solution": "0"
+    },
+    {
+        "id": 43,
+        "problem": "Which is scratchier?\n0) bark 1) rubber ball",
+        "solution": "0"
+    },
+    {
+        "id": 44,
+        "problem": "Select the mixture.\n0) beads 1) oxygen",
+        "solution": "0"
+    },
+    {
+        "id": 45,
+        "problem": "Would you find the word wrath on a dictionary page with the following guide words?\nweary - wiggle\n0) yes 1) no",
+        "solution": "1"
+    },
+    {
+        "id": 46,
+        "problem": "Which figure of speech is used in this text?\nSofia asked her mother if she could adopt a cat, and her mother replied, \"It's a definite maybe,\" so Sofia didn't want to get her hopes up.\n0) oxymoron 1) euphemism",
+        "solution": "0"
+    },
+    {
+        "id": 47,
+        "problem": "What do these two changes have in common?\na puddle freezing into ice on a cold night\nbeating an egg\n0) Both are caused by cooling. 1) Both are chemical changes. 2) Both are only physical changes. 3) Both are caused by heating.",
+        "solution": "2"
+    },
+    {
+        "id": 48,
+        "problem": "The city of Norwood has been one of the world's biggest makers of cough drops for many years. But last month, Norwood's cough drop factories were destroyed by floods. What will probably happen to the overall supply of cough drops?\n0) The supply will probably go down. 1) The supply will probably go up.",
+        "solution": "0"
+    },
+    {
+        "id": 49,
+        "problem": "Which piece of rope has less thermal energy?\n0) the colder piece of rope 1) the hotter piece of rope",
+        "solution": "0"
+    },
+    {
+        "id": 50,
+        "problem": "Select the one substance that is not a rock.\n0) Conglomerate is not made by living things. It is formed in nature. 1) An eggshell is made by a living thing. It is a solid. 2) Pumice is not a pure substance. It is not made by living things.",
+        "solution": "1"
+    },
+    {
+        "id": 51,
+        "problem": "How long is the Red Sea?\n0) 2,250 meters 1) 2,250 centimeters 2) 2,250 kilometers",
+        "solution": "2"
+    },
+    {
+        "id": 52,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\npasture - polish\n0) pinch 1) purpose",
+        "solution": "0"
+    },
+    {
+        "id": 53,
+        "problem": "What do these two changes have in common?\nmixing chocolate syrup into milk\nstapling an envelope shut\n0) Both are caused by cooling. 1) Both are chemical changes. 2) Both are caused by heating. 3) Both are only physical changes.",
+        "solution": "3"
+    },
+    {
+        "id": 54,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nsave - softly\n0) shy 1) supplies",
+        "solution": "0"
+    },
+    {
+        "id": 55,
+        "problem": "Does this passage describe the weather or the climate?\nVoss is a city in Norway. One winter, the snow there was two meters deep!\n0) weather 1) climate",
+        "solution": "0"
+    },
+    {
+        "id": 56,
+        "problem": "What kind of sentence is this?\nThe likelihood of two people having the same set of fingerprints is incredibly low.\n0) declarative 1) exclamatory 2) interrogative",
+        "solution": "0"
+    },
+    {
+        "id": 57,
+        "problem": "Which tense does the sentence use?\nIn the morning, Mrs. Harper shoveled the snow.\n0) present tense 1) future tense 2) past tense",
+        "solution": "2"
+    },
+    {
+        "id": 58,
+        "problem": "Which greeting is correct for a letter?\n0) Dear aunt Zoe, 1) Dear Aunt Zoe,",
+        "solution": "1"
+    },
+    {
+        "id": 59,
+        "problem": "Complete the sentence.\nBees making honey from nectar is a ().\n0) chemical change 1) physical change",
+        "solution": "0"
+    },
+    {
+        "id": 60,
+        "problem": "Which sentence is more formal?\n0) The Indian town of Cherrapunji gets a lot of rain every year. 1) Cherrapunji, India, receives nearly 460 inches of rain each year.",
+        "solution": "1"
+    },
+    {
+        "id": 61,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nbaseball - bottom\n0) blow 1) brown",
+        "solution": "0"
+    },
+    {
+        "id": 62,
+        "problem": "What does the euphemism in this text suggest?\nAva is between jobs right now, so she's selling some of her old jewelry to help pay the bills.\n0) Ava is short on cash. 1) Ava is unemployed.",
+        "solution": "1"
+    },
+    {
+        "id": 63,
+        "problem": "Complete the statement. Assume that Caleb's mass did not change.\nThe gravitational potential energy stored between Caleb and Earth () as he rode the escalator.\n0) increased 1) stayed the same 2) decreased",
+        "solution": "0"
+    },
+    {
+        "id": 64,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\ndare - disturb\n0) devour 1) dread",
+        "solution": "0"
+    },
+    {
+        "id": 65,
+        "problem": "What does the allusion in this text suggest?\nWith the gutters clogged and water rising in the streets, Marcy, who was watching the storm from her window, commented, \"We're going to need an ark to get out of here.\"\n0) Marcy thinks the storm will cause major flooding. 1) Marcy wants to protect her possessions.",
+        "solution": "0"
+    },
+    {
+        "id": 66,
+        "problem": "Which logical fallacy is used in the text?\nBarbara should either stop reading those sappy paranormal romance novels or finally admit that she doesn't believe in empowering women.\n0) false dichotomy: an argument that presents only two choices when more options exist 1) guilt by association: a negative association intended to discredit someone or something 2) circular reasoning: an argument that supports a claim with the claim itself",
+        "solution": "0"
+    },
+    {
+        "id": 67,
+        "problem": "Two baked potatoes have the same temperature but different masses. Which potato has more thermal energy?\n0) the baked potato with more mass 1) the baked potato with less mass",
+        "solution": "0"
+    },
+    {
+        "id": 68,
+        "problem": "Select the vertebrate.\n0) ladybug 1) moon jellyfish 2) greater flamingo 3) fly",
+        "solution": "2"
+    },
+    {
+        "id": 69,
+        "problem": "How long is a human front tooth?\n0) 14 meters 1) 14 millimeters 2) 14 kilometers 3) 14 centimeters",
+        "solution": "1"
+    },
+    {
+        "id": 70,
+        "problem": "In the 1970s, several countries in the Middle East decided to pump less oil from their oil wells. Oil is often made into gasoline. What happened to the world's overall supply of gasoline?\n0) The supply went up. 1) The supply went down.",
+        "solution": "1"
+    },
+    {
+        "id": 71,
+        "problem": "Which figure of speech is used in this text?\nThe audience at the 2012 Olympics cheered as, with Herculean effort, Kim Un-Guk of North Korea set an Olympic record by lifting a 153-kilogram weight.\n0) alliteration 1) allusion",
+        "solution": "1"
+    },
+    {
+        "id": 72,
+        "problem": "Using only these supplies, which question can Estelle investigate with an experiment?\n0) Does a rubber inner tube sled go faster down a small hill or down a big hill? 1) Does a rubber inner tube sled or a plastic sled go faster down a hill? 2) Does a plastic sled or a wooden sled go down a hill faster?",
+        "solution": "1"
+    },
+    {
+        "id": 73,
+        "problem": "Select the description that doesn't belong.\n0) always 1) done 2) sometimes 3) never",
+        "solution": "1"
+    },
+    {
+        "id": 74,
+        "problem": "Which figure of speech is used in this text?\nValeria's phone slipped out of her pocket, landing in the toilet with a plop.\n0) onomatopoeia 1) verbal irony",
+        "solution": "0"
+    },
+    {
+        "id": 75,
+        "problem": "Does this passage describe the weather or the climate?\nIt has not rained in over a week at Ian's house.\n0) weather 1) climate",
+        "solution": "0"
+    },
+    {
+        "id": 76,
+        "problem": "Select the elementary substance.\n0) methane (CH4) 1) water (H2O) 2) zinc (Zn)",
+        "solution": "2"
+    },
+    {
+        "id": 77,
+        "problem": "Using only these supplies, which question can Heather investigate with an experiment?\n0) Do round rocks or flat rocks skip more times when thrown across the river? 1) Do small rocks or large rocks skip more times when thrown across the river? 2) Do rocks skip more times when thrown across a river or across a pond?",
+        "solution": "1"
+    },
+    {
+        "id": 78,
+        "problem": "Would you find the word nimble on a dictionary page with the following guide words?\nnation - next\n0) yes 1) no",
+        "solution": "1"
+    },
+    {
+        "id": 79,
+        "problem": "Which is a complex sentence?\n0) In June, Gabrielle and Jon will graduate with honors from Millersburg High School. 1) If we hike Bright Angel Trail in the Grand Canyon, we won't see Mooney Falls.",
+        "solution": "1"
+    },
+    {
+        "id": 80,
+        "problem": "How long is a sofa?\n0) 5 feet 1) 5 yards 2) 5 inches",
+        "solution": "0"
+    },
+    {
+        "id": 81,
+        "problem": "Compare the motion of three motorboats. Which motorboat was moving at the lowest speed?\n0) a motorboat that moved 185miles west in 10hours 1) a motorboat that moved 150miles north in 10hours 2) a motorboat that moved 250miles west in 10hours",
+        "solution": "1"
+    },
+    {
+        "id": 82,
+        "problem": "Compare the motion of three bicycles. Which bicycle was moving at the lowest speed?\n0) a bicycle that moved 115miles east in 10hours 1) a bicycle that moved 120miles west in 10hours 2) a bicycle that moved 280miles north in 10hours",
+        "solution": "0"
+    },
+    {
+        "id": 83,
+        "problem": "What do these two changes have in common?\ncarving a piece of wood\nsewing an apron\n0) Both are caused by heating. 1) Both are chemical changes. 2) Both are caused by cooling. 3) Both are only physical changes.",
+        "solution": "3"
+    },
+    {
+        "id": 84,
+        "problem": "Complete the statement. Assume that the water balloon's mass did not change.\nThe gravitational potential energy stored between the water balloon and Earth () as the water balloon fell toward Dale.\n0) decreased 1) stayed the same 2) increased",
+        "solution": "0"
+    },
+    {
+        "id": 85,
+        "problem": "How long is a bus route across a small town?\n0) 5 centimeters 1) 5 kilometers",
+        "solution": "1"
+    },
+    {
+        "id": 86,
+        "problem": "What information supports the conclusion that Keith acquired this trait?\n0) Keith likes to look at butterflies and beetles. 1) Keith learned to identify insects by reading many books about insects.",
+        "solution": "1"
+    },
+    {
+        "id": 87,
+        "problem": "Using only these supplies, which question can Martin investigate with an experiment?\n0) Which type of soil will cause a certain kind of tomato plant to grow the most fruit? 1) Which of the three types of tomato seeds sprouts the fastest? 2) Does a certain kind of tomato plant grow taller when planted in a clay pot or in a plastic pot?",
+        "solution": "1"
+    },
+    {
+        "id": 88,
+        "problem": "Compare the motion of two buses. Which bus was moving at a higher speed?\n0) a bus that moved 880kilometers in 10hours 1) a bus that moved 850kilometers in 10hours",
+        "solution": "0"
+    },
+    {
+        "id": 89,
+        "problem": "What information supports the conclusion that Riley acquired this trait?\n0) Riley likes to photograph birds at the zoo. 1) Riley was not born knowing how to identify different bird calls. She had to learn this skill.",
+        "solution": "1"
+    },
+    {
+        "id": 90,
+        "problem": "Which object has more thermal energy?\n0) a 175-gram glass of apple juice at a temperature of 65\u00b0F 1) a 175-gram glass of apple juice at a temperature of 40\u00b0F",
+        "solution": "0"
+    },
+    {
+        "id": 91,
+        "problem": "Which is a run-on sentence?\n0) The explorers nervously entered the dark cave. 1) Bert borrowed my book he enjoyed it.",
+        "solution": "1"
+    },
+    {
+        "id": 92,
+        "problem": "Complete the sentence.\nThe Second Amendment says that () have the right to own weapons.\n0) the American people 1) only policemen 2) only men 3) the state governments",
+        "solution": "0"
+    },
+    {
+        "id": 93,
+        "problem": "Suppose Layla decides to make tomato soup. Which result would be a cost?\n0) The tomato soup will be tastier than the beef barley soup would have been. 1) Layla will spend more time making the tomato soup than she would have spent making the beef barley soup.",
+        "solution": "1"
+    },
+    {
+        "id": 94,
+        "problem": "Is the following trait inherited or acquired?\nJohnny has a scar on his right leg.\n0) acquired 1) inherited",
+        "solution": "0"
+    },
+    {
+        "id": 95,
+        "problem": "What does the allusion in this text suggest?\nThe swordsman achieved a pyrrhic victory, defeating his opponent while incurring mortal wounds of his own.\n0) The victory came at a great cost. 1) The victory was quick and efficient.",
+        "solution": "0"
+    },
+    {
+        "id": 96,
+        "problem": "What kind of sentence is this?\nThe Small Dark Spot is the name of a cyclone that occurred on the planet Neptune.\n0) declarative 1) exclamatory 2) interrogative",
+        "solution": "0"
+    },
+    {
+        "id": 97,
+        "problem": "Which tense does the sentence use?\nIn the morning, Grandpa will make eggs.\n0) past tense 1) present tense 2) future tense",
+        "solution": "2"
+    },
+    {
+        "id": 98,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nperfect - polo\n0) platform 1) press",
+        "solution": "0"
+    },
+    {
+        "id": 99,
+        "problem": "What does the hyperbole in this text suggest?\nAfter he finished the marathon, Dean collapsed into a chair and declared that he could no longer move a single muscle.\n0) Dean was very tired and sore. 1) Dean became paralyzed.",
+        "solution": "0"
+    },
+    {
+        "id": 100,
+        "problem": "Would you find the word even on a dictionary page with the following guide words?\nengineer - except\n0) no 1) yes",
+        "solution": "1"
+    },
+    {
+        "id": 101,
+        "problem": "What do these two changes have in common?\ncutting an apple\na sidewalk heating up in the sun\n0) Both are chemical changes. 1) Both are caused by cooling. 2) Both are caused by heating. 3) Both are only physical changes.",
+        "solution": "3"
+    },
+    {
+        "id": 102,
+        "problem": "Which of the following contains a vague pronoun reference?\n0) Whenever the Griffins visit Florida, they see their relatives. 1) The Griffins see their relatives whenever they visit Florida.",
+        "solution": "1"
+    },
+    {
+        "id": 103,
+        "problem": "Which logical fallacy is used in the text?\nSenator Fischer announced today that she plans to cut funding to early childhood education programs. The last thing we need is a government official who hates children!\n0) straw man: a misrepresentation of an opponent's position that makes it easier to argue against 1) bandwagon fallacy: the assumption that the popular choice is automatically correct",
+        "solution": "0"
+    },
+    {
+        "id": 104,
+        "problem": "Suppose Riley decides to plant the roses. Which result would be a cost?\n0) She will save some space. The roses will use up less space than the pine tree would have used up. 1) Riley will give up the chance to look at the pine tree. She thinks it would have looked more beautiful than the roses.",
+        "solution": "1"
+    },
+    {
+        "id": 105,
+        "problem": "Select the one animal that has all of the reptile traits listed above.\n0) Common snapping turtles hatch from eggs with shells. They have powerful beaks. When a snapping turtle is threatened by a predator, it snaps its beak! Snapping turtles have scaly, waterproof skin. 1) Salmon lay eggs with no shells at the bottom of freshwater streams. Salmon use their powerful fins to swim. They can even jump up small waterfalls!",
+        "solution": "0"
+    },
+    {
+        "id": 106,
+        "problem": "What do these two changes have in common?\nerosion caused by wind\nbeating an egg\n0) Both are only physical changes. 1) Both are chemical changes. 2) Both are caused by cooling. 3) Both are caused by heating.",
+        "solution": "0"
+    },
+    {
+        "id": 107,
+        "problem": "Which type of sentence is this?\nMia is a competitive horseback rider, and she will be competing in the next World Equestrian Games, which are held every four years.\n0) compound-complex 1) compound 2) simple 3) complex",
+        "solution": "0"
+    },
+    {
+        "id": 108,
+        "problem": "Which word is not like the others?\n0) time 1) rain 2) snow 3) sun",
+        "solution": "0"
+    },
+    {
+        "id": 109,
+        "problem": "Which logical fallacy is used in the text?\nKrysta has no school spirit\u2014she never comes to any of our football games.\n0) false dichotomy: an argument that presents only two choices when more options exist 1) appeal to nature: the assumption that natural things are always good",
+        "solution": "0"
+    },
+    {
+        "id": 110,
+        "problem": "Which figure of speech is used in this text?\nThe Dodson family is going to spend two weeks in Ocean City, but for Mateo it will be a working vacation, since he'll be checking in with the office every day.\n0) euphemism 1) oxymoron",
+        "solution": "1"
+    },
+    {
+        "id": 111,
+        "problem": "Which figure of speech is used in this text?\nWell, that's cast rather a gloom over the evening, hasn't it?\n\u2014Dinner guest, after a visit from the Grim Reaper, in Monty Python's The Meaning of Life\n0) understatement 1) antithesis",
+        "solution": "0"
+    },
+    {
+        "id": 112,
+        "problem": "Which is a compound sentence?\n0) I pretend to be a knight, and Mary pretends to be an astronaut. 1) Mary will change the batteries in the radio tomorrow.",
+        "solution": "0"
+    },
+    {
+        "id": 113,
+        "problem": "What is the volume of a mustard bottle?\n0) 9 gallons 1) 9 cups 2) 9 fluid ounces",
+        "solution": "2"
+    },
+    {
+        "id": 114,
+        "problem": "Which of the following contains a vague pronoun reference?\n0) Amy asked Annie to make a flourless chocolate cake for their book club meeting because she has a gluten allergy. 1) Because Annie has a gluten allergy, Amy asked her to make a flourless chocolate cake for their book club meeting.",
+        "solution": "0"
+    },
+    {
+        "id": 115,
+        "problem": "What is the volume of a car's gas tank?\n0) 15 cups 1) 15 gallons 2) 15 fluid ounces",
+        "solution": "1"
+    },
+    {
+        "id": 116,
+        "problem": "Is the following trait inherited or acquired?\nPhilip is good at baking.\n0) inherited 1) acquired",
+        "solution": "1"
+    },
+    {
+        "id": 117,
+        "problem": "Complete the sentence so that it uses personification.\nRusted old cars () every corner of the junkyard.\n0) lounged in 1) could be found in",
+        "solution": "0"
+    },
+    {
+        "id": 118,
+        "problem": "Would you find the word they on a dictionary page with the following guide words?\nterritory - trek\n0) no 1) yes",
+        "solution": "1"
+    },
+    {
+        "id": 119,
+        "problem": "What kind of sentence is this?\nThe shower is broken for the second time this week!\n0) exclamatory 1) declarative",
+        "solution": "0"
+    },
+    {
+        "id": 120,
+        "problem": "What information supports the conclusion that Kaylee inherited this trait?\n0) Kaylee's parents have red hair. They passed down this trait to Kaylee. 1) Kaylee and her mother both wear their hair in braids.",
+        "solution": "0"
+    },
+    {
+        "id": 121,
+        "problem": "Would you find the word since on a dictionary page with the following guide words?\nserape - spice\n0) no 1) yes",
+        "solution": "1"
+    },
+    {
+        "id": 122,
+        "problem": "What is the source of the allusion in the sentence below?\nWhen I learned the details of Rachel's Faustian bargain, I was in disbelief.\n0) history 1) literature",
+        "solution": "1"
+    },
+    {
+        "id": 123,
+        "problem": "Which text uses the word nauseous in its traditional sense?\n0) The avant-garde artist deftly used neon colors and geometric patterns to create nauseous spirals that forced many viewers to look away after only a few minutes. 1) The avant-garde artist deftly used neon colors and geometric patterns to create disorienting spirals so intense that they caused some viewers to become nauseous just from looking at them.",
+        "solution": "0"
+    },
+    {
+        "id": 124,
+        "problem": "Which sentence is more formal?\n0) The awesome band Prehistoric Playground has a gig at McCarthy Hall tonight. 1) The band Prehistoric Playground is performing at McCarthy Hall tonight.",
+        "solution": "1"
+    },
+    {
+        "id": 125,
+        "problem": "Based on this information, what is Cleo's phenotype for the fur color trait?\n0) light fur 1) dark fur",
+        "solution": "0"
+    },
+    {
+        "id": 126,
+        "problem": "What does the verbal irony in this text suggest?\n\"That fits you well,\" Tony remarked after Bonnie's cap fell over her eyes for the tenth time.\n0) The cap was too big. 1) The cap was a good fit.",
+        "solution": "0"
+    },
+    {
+        "id": 127,
+        "problem": "Which logical fallacy is used in the text?\nI pulled Billy off the project because his work was sloppy. While we're at it, let's pull Maggie off the project, too. I haven't reviewed her work, but she's friends with Billy, so we cannot rely on the quality of her work either.\n0) false dichotomy: an argument that presents only two choices when more options exist 1) appeal to nature: the assumption that natural things are always good 2) guilt by association: a negative association intended to discredit someone or something",
+        "solution": "2"
+    },
+    {
+        "id": 128,
+        "problem": "What information supports the conclusion that Denise inherited this trait?\n0) Denise's biological mother often wears her straight hair in a ponytail. 1) Denise's biological parents have red hair. Denise also has red hair. 2) Denise's neighbor also has straight hair.",
+        "solution": "0"
+    },
+    {
+        "id": 129,
+        "problem": "Which correctly shows the title of a book?\n0) ***Apple or Orange*** 1) \"Apple or Orange?\"",
+        "solution": "0"
+    },
+    {
+        "id": 130,
+        "problem": "How long is an eyelash?\n0) 8 kilometers 1) 8 meters 2) 8 centimeters 3) 8 millimeters",
+        "solution": "3"
+    },
+    {
+        "id": 131,
+        "problem": "Is the following trait inherited or acquired?\nSusan has a scar on her right hand.\n0) acquired 1) inherited",
+        "solution": "0"
+    },
+    {
+        "id": 132,
+        "problem": "Based on this information, what is this fruit fly's phenotype for the antenna type trait?\n0) Aa 1) mutated antennae",
+        "solution": "1"
+    },
+    {
+        "id": 133,
+        "problem": "Is the following trait inherited or acquired?\nWinston can ride a bicycle.\n0) acquired 1) inherited",
+        "solution": "0"
+    },
+    {
+        "id": 134,
+        "problem": "Which figure of speech is used in this text?\nThroughout the ages, human beings have pondered the many mysteries of the moon.\n0) alliteration 1) verbal irony",
+        "solution": "0"
+    },
+    {
+        "id": 135,
+        "problem": "What information supports the conclusion that Sebastian inherited this trait?\n0) Sebastian's parents were born with straight hair. They passed down this trait to Sebastian. 1) Sebastian and his father both have short hair.",
+        "solution": "0"
+    },
+    {
+        "id": 136,
+        "problem": "Which figure of speech is used in this text?\nOh! Stars and clouds and winds, ye are all about to mock me; if ye really pity me, crush sensation and memory; let me become as nought.\n\u2014Mary Shelley, Frankenstein\n0) apostrophe 1) antithesis",
+        "solution": "0"
+    },
+    {
+        "id": 137,
+        "problem": "What do these two changes have in common?\nsediment settling to the bottom of a muddy puddle\nan iceberg melting slowly\n0) Both are chemical changes. 1) Both are only physical changes. 2) Both are caused by heating. 3) Both are caused by cooling.",
+        "solution": "1"
+    },
+    {
+        "id": 138,
+        "problem": "How long is a basketball court?\n0) 23 centimeters 1) 23 millimeters 2) 23 kilometers 3) 23 meters",
+        "solution": "3"
+    },
+    {
+        "id": 139,
+        "problem": "What do these two changes have in common?\nmaking paper from wood\nroasting a marshmallow over a campfire\n0) Both are only physical changes. 1) Both are chemical changes. 2) Both are caused by cooling. 3) Both are caused by heating.",
+        "solution": "1"
+    },
+    {
+        "id": 140,
+        "problem": "Which figure of speech is used in this text?\nTrent's '64 Impala groaned as he turned the ignition. Yet again he resolved to refurbish it over the summer.\n0) personification 1) metaphor",
+        "solution": "0"
+    },
+    {
+        "id": 141,
+        "problem": "Which logical fallacy is used in the text?\nIn this election, we've seen the highest voter turnout ever recorded. If you have any doubts about Bobby Monroe's qualifications, just look at how many people have come out to vote for him.\n0) guilt by association: a negative association intended to discredit someone or something 1) bandwagon fallacy: the assumption that the popular choice is automatically correct",
+        "solution": "1"
+    },
+    {
+        "id": 142,
+        "problem": "Which tense does the sentence use?\nWe will whisper in the library.\n0) past tense 1) future tense 2) present tense",
+        "solution": "1"
+    },
+    {
+        "id": 143,
+        "problem": "Which figure of speech is used in this text?\nVarious technologies have been developed to help militaries easily identify their own forces, and thus to reduce incidents of friendly fire.\n0) euphemism 1) assonance",
+        "solution": "0"
+    },
+    {
+        "id": 144,
+        "problem": "Which correctly shows the title of a newspaper?\n0) The New York Times 1) The New york Times",
+        "solution": "0"
+    },
+    {
+        "id": 145,
+        "problem": "Which text message is more formal?\n0) Heads up! Schmidt is here. In the lobby. 1) Ms. Schmidt is already here. She's waiting in the lobby.",
+        "solution": "1"
+    },
+    {
+        "id": 146,
+        "problem": "What information supports the conclusion that John inherited this trait?\n0) John wears glasses and so do his sisters. 1) John's friend also has hazel eyes. 2) John's biological father wears contacts in his hazel eyes.",
+        "solution": "2"
+    },
+    {
+        "id": 147,
+        "problem": "Choose the poem that uses anaphora.\n0) You and I shall laugh together with the storm,\nAnd together we shall dig graves for all that die in us,\nAnd we shall stand in the sun with a will,\nAnd we shall be dangerous. 1) All Nashville is a chill. And everywhere\nLike desert sand, when the winds blow,\nThere is each moment sifted through the air,\nA powdered blast of January snow.",
+        "solution": "0"
+    },
+    {
+        "id": 148,
+        "problem": "What is the source of the allusion in the sentence below?\nNolan persisted despite his friends' attempts to tell him that this was a Gordian knot.\n0) a song 1) ancient legend",
+        "solution": "1"
+    },
+    {
+        "id": 149,
+        "problem": "What do these two changes have in common?\ndry ice sublimating and becoming a gas\nburning a marshmallow over a campfire\n0) Both are only physical changes. 1) Both are caused by cooling. 2) Both are caused by heating. 3) Both are chemical changes.",
+        "solution": "2"
+    },
+    {
+        "id": 150,
+        "problem": "Which of the following contains a vague pronoun reference?\n0) When Roxanne researched Dachshunds, it said that they can be short-haired, wire-haired, or long-haired. 1) When Roxanne researched Dachshunds, the breed standard said that they can be short-haired, wire-haired, or long-haired.",
+        "solution": "0"
+    },
+    {
+        "id": 151,
+        "problem": "Does this passage describe the weather or the climate?\nIt was 24\u00b0C downtown this afternoon.\n0) climate 1) weather",
+        "solution": "1"
+    },
+    {
+        "id": 152,
+        "problem": "What is the source of the allusion in the sentence below?\nDespite Abigail's insistence that she would raise Cain if we ever got lost, we decided to try taking a shortcut.\n0) Greek mythology 1) the Bible",
+        "solution": "1"
+    },
+    {
+        "id": 153,
+        "problem": "Which greeting is correct for a letter?\n0) Dear Pablo, 1) dear Pablo,",
+        "solution": "0"
+    },
+    {
+        "id": 154,
+        "problem": "Complete the sentence.\nRust forming on a bicycle frame is a ().\n0) chemical change 1) physical change",
+        "solution": "0"
+    },
+    {
+        "id": 155,
+        "problem": "Which figure of speech is used in this text?\nSing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans.\n\u2014Homer, The Iliad\n0) chiasmus 1) apostrophe",
+        "solution": "1"
+    },
+    {
+        "id": 156,
+        "problem": "According to the Seventh Amendment, who has the final say in deciding who wins a court case?\n0) the president 1) the judge 2) the defendant 3) the jury",
+        "solution": "3"
+    },
+    {
+        "id": 157,
+        "problem": "Which tense does the sentence use?\nNellie learns about her ancestors in the book.\n0) past tense 1) present tense 2) future tense",
+        "solution": "1"
+    },
+    {
+        "id": 158,
+        "problem": "Select the mixture.\n0) salad 1) sugar",
+        "solution": "0"
+    },
+    {
+        "id": 159,
+        "problem": "The city of Ashland has been one of the world's biggest makers of cough drops for many years. But last month, Ashland's cough drop factories were destroyed by floods. What will probably happen to the overall supply of cough drops?\n0) The supply will probably go up. 1) The supply will probably go down.",
+        "solution": "1"
+    },
+    {
+        "id": 160,
+        "problem": "What do these two changes have in common?\nbaking cookies\nrust forming on a metal gate\n0) Both are caused by cooling. 1) Both are caused by heating. 2) Both are only physical changes. 3) Both are chemical changes.",
+        "solution": "3"
+    },
+    {
+        "id": 161,
+        "problem": "Which is more flexible?\n0) nylon shorts 1) ceramic mug",
+        "solution": "0"
+    },
+    {
+        "id": 162,
+        "problem": "Which sentence states a fact?\n0) The cold, sunless winter months in Dry Valleys, Antarctica, are unbearable. 1) Dry Valleys, Antarctica, is the driest place on Earth, followed by Arica, Chile.",
+        "solution": "1"
+    },
+    {
+        "id": 163,
+        "problem": "Complete the statement. Assume that the sled's mass did not change.\nThe gravitational potential energy stored between the sled and Earth () as Rose rode down the hill.\n0) decreased 1) increased 2) stayed the same",
+        "solution": "0"
+    },
+    {
+        "id": 164,
+        "problem": "What information supports the conclusion that Lucia inherited this trait?\n0) Lucia and her biological father wear sunglasses when they go outside. 1) Lucia has green eyes like her biological mother. 2) Lucia's neighbor has green eyes.",
+        "solution": "1"
+    },
+    {
+        "id": 165,
+        "problem": "What is the source of the allusion in the sentence below?\nAndrew described the situation he was facing with his boss as a catch-22.\n0) a song 1) literature",
+        "solution": "1"
+    },
+    {
+        "id": 166,
+        "problem": "What information supports the conclusion that Erin inherited this trait?\n0) Erin's hair is the same color as her brown eyes. 1) Erin's father has brown eyes. He passed this trait down to Erin.",
+        "solution": "1"
+    },
+    {
+        "id": 167,
+        "problem": "What does the euphemism in this text suggest?\nSam is big-boned, so despite being in middle school, he often shops in the men's department.\n0) Sam is overweight. 1) Sam has larger bones than most people.",
+        "solution": "0"
+    },
+    {
+        "id": 168,
+        "problem": "Is the following trait inherited or acquired?\nMaria can ride a motorcycle.\n0) inherited 1) acquired",
+        "solution": "1"
+    },
+    {
+        "id": 169,
+        "problem": "Which piece of rope has more thermal energy?\n0) the hotter piece of rope 1) the colder piece of rope",
+        "solution": "0"
+    },
+    {
+        "id": 170,
+        "problem": "Which is a run-on sentence?\n0) Michelle blows big bubbles, Victor pops them. 1) Darkness comes quickly on long winter nights.",
+        "solution": "0"
+    },
+    {
+        "id": 171,
+        "problem": "What does the Eighth Amendment say about \"cruel and unusual punishments\"?\n0) The government can only use cruel and unusual punishments against murderers. 1) The government can never use cruel and unusual punishments. 2) The government can use cruel and unusual punishments if it needs to. 3) The government can only use cruel and unusual punishments during wars.",
+        "solution": "1"
+    },
+    {
+        "id": 172,
+        "problem": "Which of the following contains a vague pronoun reference?\n0) Brian had to stay home with his brother because he wasn't feeling well. 1) Brian's brother wasn't feeling well, so Brian had to stay home with him.",
+        "solution": "0"
+    },
+    {
+        "id": 173,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nabove - asphalt\n0) auction 1) afraid",
+        "solution": "1"
+    },
+    {
+        "id": 174,
+        "problem": "What is the source of the allusion in the sentence below?\nIsabella had her fifteen minutes when her video of kayaking with dolphins went viral.\n0) Greek history 1) modern history",
+        "solution": "1"
+    },
+    {
+        "id": 175,
+        "problem": "Which correctly shows the title of an article?\n0) \"Caring for Our Children\" 1) Caring for Our Children",
+        "solution": "0"
+    },
+    {
+        "id": 176,
+        "problem": "Which logical fallacy is used in the text?\nIn this election, we've seen the highest voter turnout ever recorded. If you have any doubts about Brad Lloyd's qualifications, just look at how many people have come out to vote for him.\n0) bandwagon fallacy: the assumption that the popular choice is automatically correct 1) red herring: the use of a completely unrelated topic or idea",
+        "solution": "0"
+    },
+    {
+        "id": 177,
+        "problem": "What kind of sentence is this?\nMaureen felt intimidated by the steep cliff that she faced on her first rock-climbing adventure.\n0) exclamatory 1) declarative 2) interrogative",
+        "solution": "1"
+    },
+    {
+        "id": 178,
+        "problem": "Compare the motion of three ducks. Which duck was moving at the highest speed?\n0) a duck that moved 175miles west in 5hours 1) a duck that moved 220miles east in 5hours 2) a duck that moved 260miles north in 5hours",
+        "solution": "2"
+    },
+    {
+        "id": 179,
+        "problem": "Select the solid.\n0) clothespin 1) wet paint 2) grape juice",
+        "solution": "0"
+    },
+    {
+        "id": 180,
+        "problem": "What information supports the conclusion that Matt acquired this trait?\n0) Matt is most interested in human biology. 1) Matt learned biology by reading, observing, and experimenting.",
+        "solution": "1"
+    },
+    {
+        "id": 181,
+        "problem": "Is the following trait inherited or acquired?\nLiam has a scar on his right elbow.\n0) acquired 1) inherited",
+        "solution": "0"
+    },
+    {
+        "id": 182,
+        "problem": "Last year, there were seven men's clothing stores on Main Street in Norwood. This year, there are only three. What probably happened to the overall supply of men's shirts in Norwood?\n0) The supply probably went up. 1) The supply probably went down.",
+        "solution": "1"
+    },
+    {
+        "id": 183,
+        "problem": "Is fixing a sink a good or a service?\n0) a good 1) a service",
+        "solution": "1"
+    },
+    {
+        "id": 184,
+        "problem": "Which logical fallacy is used in the text?\nMr. Kemp argues that we need to do more to prevent workplace injuries and fatalities. I doubt that someone so socially awkward would know a thing about office safety.\n0) ad hominem: a personal attack against one's opponent 1) bandwagon fallacy: the assumption that the popular choice is automatically correct",
+        "solution": "0"
+    },
+    {
+        "id": 185,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nfeather - fling\n0) fabulous 1) fix",
+        "solution": "1"
+    },
+    {
+        "id": 186,
+        "problem": "Based on this information, what is Sushi's phenotype for the body color trait?\n0) a golden body 1) bb",
+        "solution": "0"
+    },
+    {
+        "id": 187,
+        "problem": "Which figure of speech is used in this text?\nJayce's leaving his job? That's old news. He's been planning that for months.\n0) euphemism 1) oxymoron",
+        "solution": "1"
+    },
+    {
+        "id": 188,
+        "problem": "Select the animal.\n0) Moles eat insects and worms. 1) Cedar trees have small leaves.",
+        "solution": "0"
+    },
+    {
+        "id": 189,
+        "problem": "Which logical fallacy is used in the text?\nYou may be impressed by Senator Larsen's work with low-income communities, but the fact remains that he graduated from an elite university. He couldn't possibly empathize with low-income constituents.\n0) guilt by association: a negative association intended to discredit someone or something 1) circular reasoning: an argument that supports a claim with the claim itself 2) slippery slope fallacy: the false assumption that a small first step will lead to extreme consequences",
+        "solution": "0"
+    },
+    {
+        "id": 190,
+        "problem": "Which change best matches the sentence?\nMelted rock comes out of a gap in Earth's surface.\n0) wildfire 1) volcanic eruption 2) erosion",
+        "solution": "1"
+    },
+    {
+        "id": 191,
+        "problem": "Which logical fallacy is used in the text?\nNuclear weapons are a threat to the stability and safety of the world. Like nuclear weapons, nuclear power plants rely on fission. Therefore, nuclear power plants are also a threat to the stability and safety of the world.\n0) circular reasoning: an argument that supports a claim with the claim itself 1) guilt by association: a negative association intended to discredit someone or something 2) straw man: a misrepresentation of an opponent's position that makes it easier to argue against",
+        "solution": "1"
+    },
+    {
+        "id": 192,
+        "problem": "What is the temperature of the air on a warm, sunny day?\n0) 26\u00b0C 1) 26\u00b0F",
+        "solution": "0"
+    },
+    {
+        "id": 193,
+        "problem": "Which logical fallacy is used in the text?\nI believe everyone has his or her own idea of what's beautiful in the world. After all, it's the individual who determines what's attractive according to his or her own opinion.\n0) circular reasoning: an argument that supports a claim with the claim itself 1) hasty generalization: a broad claim based on too few observations 2) straw man: a misrepresentation of an opponent's position that makes it easier to argue against",
+        "solution": "0"
+    },
+    {
+        "id": 194,
+        "problem": "Read the following excerpt from a student essay. How can the writer best improve his or her grammar and mechanics?\nWhen I'm asked to name my favorite teacher, I immediately think of Mr. Sweeney. In fifth grade, Mr. Sweeney taught us all about architecture he had the class start by learning to measure things very accurately. We studied environmentally friendly building methods, and we designed and built our own homes of the future. Mr. Sweeney was always fun and interesting, he believed that we could do more than we thought we could do. He helped me break boundaries in my life, he was a positive influence on me and will always be one of the most inspirational people in my life.\n0) by using correct verb tenses 1) by fixing run-on sentences",
+        "solution": "1"
+    },
+    {
+        "id": 195,
+        "problem": "According to Newton's third law, what other force must be happening?\n0) The paper clip is pulling on the fridge magnet. 1) The paper clip is pushing on the fridge magnet.",
+        "solution": "0"
+    },
+    {
+        "id": 196,
+        "problem": "Which mug of cocoa has a higher temperature?\n0) the mug of cocoa with less thermal energy 1) the mug of cocoa with more thermal energy",
+        "solution": "1"
+    },
+    {
+        "id": 197,
+        "problem": "Which word would you find on a dictionary page with the following guide words?\nbook - bulletin\n0) back 1) brave",
+        "solution": "1"
+    },
+    {
+        "id": 198,
+        "problem": "Which figure of speech is used in this text?\nEric remarked that the new book on anti-gravity was impossible to put down.\n0) pun 1) alliteration",
+        "solution": "0"
+    },
+    {
+        "id": 199,
+        "problem": "What information supports the conclusion that Mike inherited this trait?\n0) Mike has freckles on his nose and shoulders. 1) Mike and his biological mother have pale skin. 2) Mike's biological parents have freckles on their noses just as Mike does.",
+        "solution": "2"
+    },
+    {
+        "id": 200,
+        "problem": "Which is a run-on sentence?\n0) Susan's bedroom is neat she puts everything away. 1) The little boy popped a big bubble.",
+        "solution": "0"
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "prompt_template": "Given a question or textual content, please generate a retrieve query.\nExtract the key concepts, relevant terms, and necessary context from the input.\nCombine these elements to form a concise, precise, and effective search query.\nProvide the final query on a new line, starting with \"The query is: <your retrieve query>\".\nIf you do not have enough context or the input is unclear, respond with \"unknown\" and nothing else.\nOtherwise, provide the query concisely and in the specified format.\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Answer:",
+        "Answer",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### ",
+        "\n\n\n"
+    ],
+    "answer_marker": "answer is"
+}

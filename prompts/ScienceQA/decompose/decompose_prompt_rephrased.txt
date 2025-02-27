@@ -1,0 +1,21 @@
+Given a question, please decompose it into sub-questions. For each sub-question, please answer it in one complete sentence, ending with "The answer is: ". When the original question is answerable, please start the subquestion with "Now we can answer the question: <original question>" and the answer should end with "The answer is: <option index>". 
+
+Question 1: Given a list of conditions, please answer the question. Condition 1: There is a country that has Azad Kashmir. Condition 2: We need to identify who was the president of that country in 1980. Question: Who was the president in 1980 of the country that has Azad Kashmir?
+Question 1.1: Which country contains Azad Kashmir?
+Answer 1.1: The answer is: Pakistan.
+Question 1.2: Who was the president of Pakistan in 1980?
+Answer 1.2: The answer is: Muhammad Zia-ul-Haq.
+Question 1.3: Now we can answer the question: Who was the president in 1980 of the country that has Azad Kashmir?
+Answer 1.3: The answer is: Muhammad Zia-ul-Haq.
+
+Question 2: Given a list of conditions, please answer the question. Condition 1: There is a country that has Azad Kashmir. Condition 2: We need to identify who was the president of that country in 1980. Question: Who was the president in 1980 of the country that has Azad Kashmir?
+Question 2.1: Which team is led by Nicholas S. Zeppos?
+Answer 2.1: The answer is: Vanderbilt University, represented by the Vanderbilt Commodores.
+Question 2.2: What is the mascot of the Vanderbilt Commodores?
+Answer 2.2: The answer is: Mr. C.
+Question 2.3: Now we can answer the question: What is the mascot of the team led by Nicholas S. Zeppos?
+Answer 2.3: The answer is: Mr. C.
+
+
+
+

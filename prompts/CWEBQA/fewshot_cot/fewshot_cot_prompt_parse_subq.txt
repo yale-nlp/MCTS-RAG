@@ -1,0 +1,11 @@
+### Instruction:
+There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?
+
+### Response:
+Let's think step by step.
+Subquestion: What was the initial number of trees in the grove?
+Subanswer: Initially, there were 15 trees in the grove. The answer is: 15.
+Subquestion: What is the total number of trees in the grove after the workers finished planting?
+Subanswer: After planting, the total number of trees in the grove is 21. The answer is: 21.
+Subquestion: Now we can answer the question: How many trees did the grove workers plant today?
+Subanswer: We can find out by subtracting the initial number of trees from the total number after planting. So, 21 - 15 = 6. Therefore, the workers planted 6 trees today. The answer is: 6.

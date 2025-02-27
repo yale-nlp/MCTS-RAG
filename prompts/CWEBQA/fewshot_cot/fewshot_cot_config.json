@@ -1,0 +1,8 @@
+{
+    "prompt_template": "A chat between a curious user and an AI assistant. The assistant gives step-by-step solutions to the user's questions. In the end of assistant's response, a final answer must be given in the format of \"The answer is: <ANSWER>.\", where <ANSWER> should be a concise answer.\n\n{examples}\n\n### Instruction:\n{instruction}\n\n### Response:\n\nPlease answer it in a complete sentence",
+    "stop_tokens": [
+        "</s>",
+        "\n\n\n"
+    ],
+    "answer_marker": "answer is"
+}

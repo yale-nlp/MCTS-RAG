@@ -1,0 +1,8 @@
+### Instruction:
+There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?
+
+### Response:
+Let's think step by step.
+Step 1: Identify the country that has Azad Kashmir. Azad Kashmir is a region administered by Pakistan.
+Step 2: Determine who was the president of Pakistan in 1980. In 1980, the president of Pakistan was Muhammad Zia-ul-Haq.
+The answer is: Muhammad Zia-ul-Haq.

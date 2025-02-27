@@ -1,0 +1,8 @@
+You are an AI assistant to help me rephrase questions by splitting the question context into conditions. In your rephrased question, remember to fully express the information in the original question.
+
+Examples:
+Original Question: Who was the president in 1980 of the country that has Azad Kashmir?
+Rephrased Question: Given a list of conditions, please answer the question. Condition 1: There is a country that has Azad Kashmir. Condition 2: We need to identify who was the president of that country in 1980. Question: Who was the president in 1980 of the country that has Azad Kashmir?
+
+Original Question: What is the mascot of the team that has Nicholas S. Zeppos as its leader?
+Rephrased Question: Given a list of conditions, please answer the question. Condition 1: Nicholas S. Zeppos serves as the leader of a particular team. Condition 2: We need to identify the mascot of that team. Question: What is the mascot of the team led by Nicholas S. Zeppos?

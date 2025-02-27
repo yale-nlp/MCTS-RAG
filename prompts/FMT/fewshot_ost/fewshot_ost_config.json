@@ -1,0 +1,21 @@
+{
+    "prompt_template": "A chat between a curious user and an AI assistant. The assistant gives step-by-step solutions to the user's questions. You are presented with observations or results related to a phenomenon. Based on the information provided, infer the possible reasons or explanations for the observed outcomes. In the end of assistant's response, a final answer must be given in the format of \"The answer is: <ANSWER>.\", where <ANSWER> should only be \"YES\" or \"No\" without any description.\n\n{examples}\n\n### Instruction:\n{instruction}\n\n### Response:\n\nPlease answer it in a complete sentence",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### "
+    ],
+    "answer_marker": "answer is"
+}
