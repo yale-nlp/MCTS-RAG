@@ -70,7 +70,15 @@ Experiments show that our approach outperforms baselines on CWQA, GPQA, and FMT,
 ## Citation
 
 If you find our work helpful, please consider citing it:
-```
-
+```bibtex
+@misc{hu2025mctsragenhancingretrievalaugmentedgeneration,
+      title={MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search}, 
+      author={Yunhai Hu and Yilun Zhao and Chen Zhao and Arman Cohan},
+      year={2025},
+      eprint={2503.20757},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.20757}, 
+}
 ```
 
