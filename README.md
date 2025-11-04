@@ -1,10 +1,22 @@
-# MCTS-RAG: Enhance Retrieval-Augmented Generation with Monte Carlo Tree Search
+<div align="center">
+  <h1 align="center">MCTS-RAG</h1>
+  <p align="center">
+    Enhance Retrieval-Augmented Generation with Monte Carlo Tree Search
+  </p>
+  <p align="center">
+    A novel approach that enhances the reasoning capabilities of small language models (SLMs) on knowledge-intensive tasks by integrating retrieval-augmented generation (RAG) with Monte Carlo Tree Search (MCTS).
+  </p>
+</div>
 
-This repository contains the core scripts for running the **generator** and **discriminator** of **MCTS-RAG**.
+<p align="center">
+  <a href="https://arxiv.org/abs/2505.19201"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.19201-b31b1b.svg"></a>
+  <img alt="Python" src="https://img.shields.io/badge/python-3.12%2B-blue.svg">
+</p>
 
-📄 **Paper:** [https://arxiv.org/pdf/2503.20757](https://arxiv.org/pdf/2503.20757)
+<div align="center">
+  <b>🔥 Our work has been accepted to EMNLP Findings 2025! The paper is now available on <a href="[https://arxiv.org/abs/2505.19201](https://arxiv.org/pdf/2503.20757)" style="color:#b31b1b;">arXiv</a>. ✨</b>
+</div>
 
----
 
 ## Intro 
 
