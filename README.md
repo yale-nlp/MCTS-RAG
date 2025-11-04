@@ -9,12 +9,12 @@
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2505.19201"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.19201-b31b1b.svg"></a>
+  <a href="https://arxiv.org/pdf/2503.20757"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.19201-b31b1b.svg"></a>
   <img alt="Python" src="https://img.shields.io/badge/python-3.12%2B-blue.svg">
 </p>
 
 <div align="center">
-  <b>🔥 Our work has been accepted to EMNLP Findings 2025! The paper is now available on <a href="[https://arxiv.org/abs/2505.19201](https://arxiv.org/pdf/2503.20757)" style="color:#b31b1b;">arXiv</a>. ✨</b>
+  <b>🔥 Our work has been accepted to EMNLP Findings 2025! The paper is now available on <a href="https://arxiv.org/pdf/2503.20757" style="color:#b31b1b;">arXiv</a>. ✨</b>
 </div>
 
 
