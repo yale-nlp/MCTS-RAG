@@ -1,4 +1,4 @@
-# MCTS-RAG: Enhance Retrieval-Augmented Generation with \\Monte Carlo Tree Search
+# MCTS-RAG: Enhance Retrieval-Augmented Generation with Monte Carlo Tree Search
 
 This repository contains the core scripts for running the **generator** and **discriminator** of **MCTS-RAG**.
 
